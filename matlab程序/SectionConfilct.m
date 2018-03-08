@@ -1,0 +1,4 @@
+function [] = SectionConfilct(section)
+    
+end
+
